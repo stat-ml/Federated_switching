@@ -1,0 +1,1 @@
+{"dataset": "cifar10", "client_num": 20, "fraction": 0.5, "seed": 42, "split": "sample", "classes_per_client": 3}

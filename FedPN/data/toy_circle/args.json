@@ -1,0 +1,1 @@
+{"dataset": "toy_circle", "client_num_in_total": 2, "fraction": 0.5, "seed": 42, "split": "sample", "alpha": 0.1, "least_samples": 40}

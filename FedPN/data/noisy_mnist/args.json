@@ -1,0 +1,1 @@
+{"dataset": "noisy_mnist", "client_num_in_total": 1, "fraction": 0.5, "seed": 42, "split": "sample", "iid": true}

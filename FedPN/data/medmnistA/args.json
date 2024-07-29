@@ -1,0 +1,1 @@
+{"dataset": "medmnistA", "client_num_in_total": 20, "fraction": 0.5, "seed": 42, "split": "sample", "classes_per_client": 3}
